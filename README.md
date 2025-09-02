@@ -1,5 +1,5 @@
 # Forecasting Electric Load Using Multi-Output Supervised Machine Learning
-
+![cover.png](attachment:54ecbaa8-8253-47c1-96cf-61f9396fe81a.png)
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 
 ## Project Overview
