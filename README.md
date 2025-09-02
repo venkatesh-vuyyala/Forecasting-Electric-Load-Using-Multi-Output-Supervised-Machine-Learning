@@ -1,5 +1,6 @@
 # Forecasting Electric Load Using Multi-Output Supervised Machine Learning
-![cover.png](attachment:54ecbaa8-8253-47c1-96cf-61f9396fe81a.png)
+<img width="904" height="527" alt="Screenshot 2025-09-02 at 1 48 52 PM" src="https://github.com/user-attachments/assets/7f11ed90-8ce6-4a9c-a5ec-cf9dd89c3ae4" />
+
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 
 ## Project Overview
@@ -45,6 +46,8 @@ Accurate short-term electric load forecasting is critical for efficient grid ope
 - Achieved **15% improvement** in predictive accuracy compared to iterative forecasting methods.
 - Captured **hourly, daily, and weekly load patterns** to support operational and day-ahead market decisions.
 - Framework can be extended to include **weather forecasts and renewable generation data**, enhancing grid reliability and planning.
+  
+<img width="839" height="438" alt="Screenshot 2025-09-02 at 1 49 45 PM" src="https://github.com/user-attachments/assets/2b4ab932-0e34-49a4-9acc-c1bac48a9be7" />
 
 ---
 
